@@ -3,7 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 
-En el directorio del proyecto: Psra ejecutar el proyecto debe tener instalado node.js ejecutar npm install y npm start
 Prueba Gerardo Ramos
 Preámbulo
 Está prueba tuve menos tiempo pero satisfecho con el resultado espero puedan ver el funcionamiento total de la pruerba con su persistencai de datos, y su rankin segun los likes.
