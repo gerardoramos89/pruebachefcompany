@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:PAra ejecutar el proyecto debes tener instgalado Node.js y con Npm intall y Npm Start para ejecutar la prueba.
 
 ### `npm start`
 
