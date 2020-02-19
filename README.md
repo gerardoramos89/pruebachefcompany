@@ -2,7 +2,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:PAra ejecutar el proyecto debes tener instalado node.js ejecutar npom install y npm start
+
+En el directorio del proyecto: Psra ejecutar el proyecto debe tener instalado node.js ejecutar npm install y npm start
+Prueba Gerardo Ramos
+Preámbulo
+Está prueba tuve menos tiempo pero satisfecho con el resultado espero puedan ver el funcionamiento total de la pruerba con su persistencai de datos, y su rankin segun los likes.
+
+Un gran problema que tuve el tiempo, pero muy contento de aplica rmis conocimiento
+
+Introducción
+
+En el directorio del proyecto: Para ejecutar el proyecto debe tener instalado node.js ejecutar npm install y npm start
 
 ### `npm start`
 
