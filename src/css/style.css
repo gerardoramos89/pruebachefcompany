@@ -1,0 +1,19 @@
+
+.titulo
+{
+ bottom: 0px; 
+ margin-left: auto;
+ margin-right: auto;
+ height: auto;
+ left: 0;
+ right: 0;
+ font-size: 5vw;
+ text-size-adjust: 0.58;
+ color: white;
+ position: absolute;
+ background-image: linear-gradient('transparent', black);
+    background: -webkit-linear-gradient(transparent, black); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(transparent, black); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(transparent, black); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(transparent, black); /* Standard syntax */
+}
