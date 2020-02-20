@@ -6,6 +6,7 @@ import LinearProgress from '@material-ui/core/LinearProgress';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 import Menu from './menu.js';
+import style from './css/style.css';
 class App extends React.Component {
 
   constructor(props) {
